@@ -1,0 +1,4 @@
+#Mon Aug 02 08:11:16 EET 2021
+base.0=/Users/ahmadelshafee/Desktop/assignment app/horus_university/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
